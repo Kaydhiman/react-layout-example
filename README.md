@@ -2,7 +2,7 @@
 
 ### Follow these steps to run this App:-
 
-1. Clone this repository to your local machine with `git clone https://github.com/Kaydhiman/react-layout-example.git`. It will create a folder named  'react-layout-example-master'
+1. Clone this repository to your local machine with `git clone https://github.com/Kaydhiman/react-layout-example.git`. It will create a folder named  'react-layout-example'
 2. Go to root of the project folder and run `npm install`. It will install all packages of node modules.
 3. Now run `npm start` and it will open this app in your default browser.
 
